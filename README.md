@@ -1,6 +1,6 @@
 
 # 💜 Aleena Maria Jude — Personal Portfolio
-
+https://aleena-maria-jude.github.io/aboutme/
 Welcome to my personal portfolio repository! 👋
 
 I'm a Computer Science and Engineering student at **SJCET Palai**, passionate about software development, web technologies, and innovative problem-solving.
